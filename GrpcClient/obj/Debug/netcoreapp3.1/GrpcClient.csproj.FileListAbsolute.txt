@@ -1,0 +1,17 @@
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+D:\04 CodeW\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+D:\04 CodeW\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\04 CodeW\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+D:\04 CodeW\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+D:\04 CodeW\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+D:\04 CodeW\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+D:\04 CodeW\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache
